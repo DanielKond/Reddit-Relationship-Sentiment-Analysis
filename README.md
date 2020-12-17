@@ -10,3 +10,5 @@ There also does not seem to be a major difference in reactions to posts made by 
 
 
 Next steps would include gathering more data, being more careful with the regex and vader code, and segregating the data in order to avoid a possible Simpsons paradox.
+
+Note: this project has been improved upon in the Reddit-Advice repository
